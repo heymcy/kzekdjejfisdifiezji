@@ -21,11 +21,9 @@ h2 {
   padding: 17px;
   margin: 18px 0px;
 }
-
 .card-black img {
   margin-bottom: 22px;
 }
-
 .footer {
   background-color: black;
   padding: 26px;
@@ -35,7 +33,6 @@ h2 {
   color: white;
   font-size: 34px;
 }
-
 .list-inline {
   list-style: none;
   padding-left: 0px;
@@ -45,7 +42,6 @@ li {
   display: inline;
   padding: 0px 9px;
 }
-
 #design {
   padding: 70px 0px;
 }
@@ -56,7 +52,6 @@ a {
 a:hover {
   color: black;
 }
-
 .banner{
   text-align: center;
   color: white;
@@ -73,7 +68,6 @@ a:hover {
   font-weight: lighter;
   margin-bottom: 45px;
 }
-
 .btn-red {
   color: white;
   background: #FF0000;
