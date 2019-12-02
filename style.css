@@ -14,6 +14,40 @@ h2 {
   font-size: 24px;
   color: #FFF;
 }
+.card-black {
+  background-color: black;
+  border-radius: 12px;
+  text-align: center;
+  padding: 17px;
+  margin: 18px 0px;
+}
+
+.card-black img {
+  margin-bottom: 22px;
+}
+
+.footer {
+  background-color: black;
+  padding: 26px;
+  color: white;
+}
+.footer a {
+  color: white;
+  font-size: 34px;
+}
+
+.list-inline {
+  list-style: none;
+  padding-left: 0px;
+}
+.list-inline li {
+  display: inline;
+  padding: 0px 9px;
+}
+
+#features {
+  padding: 66px 0px;
+}
 a {
   color: #FFF;
   text-decoration: none;
@@ -50,37 +84,3 @@ a:hover {
   color: white;
 }
 
-.card-black {
-  background-color: black;
-  border-radius: 12px;
-  text-align: center;
-  padding: 17px;
-  margin: 18px 0px;
-}
-
-.card-black img {
-  margin-bottom: 22px;
-}
-
-.footer {
-  background-color: black;
-  padding: 26px;
-  color: white;
-}
-.footer a {
-  color: white;
-  font-size: 34px;
-}
-
-.list-inline {
-  list-style: none;
-  padding-left: 0px;
-}
-.list-inline li {
-  display: inline;
-  padding: 0px 9px;
-}
-
-#features {
-  padding: 66px 0px;
-}
