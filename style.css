@@ -40,13 +40,14 @@ h2 {
   list-style: none;
   padding-left: 0px;
 }
-.list-inline li {
+.list-inline
+li {
   display: inline;
   padding: 0px 9px;
 }
 
-#features {
-  padding: 66px 0px;
+#design {
+  padding: 70px 0px;
 }
 a {
   color: #FFF;
